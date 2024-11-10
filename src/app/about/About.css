@@ -1,0 +1,47 @@
+/* About.css */
+
+.container {
+    background-image: url('/pink1.jpg');
+    background-size: cover;
+    background-position: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    background-color: rgba(254, 212, 226, 0.7); 
+    border-radius: 12px;
+    padding: 2rem;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1); 
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2.25rem; 
+    font-weight: 700; 
+    color: #9b2349;
+    margin-bottom: 1.5rem; 
+  }
+  
+  .text {
+    font-size: 1.125rem;
+    color: #1f2937; 
+    margin-bottom: 1rem; 
+  }
+  
+  .highlight {
+    font-weight: 600;
+    color: #9b2349; 
+  }
+  
+  .subheading {
+    font-size: 1.5rem; 
+    font-weight: 700; 
+    color: #9b2349; 
+    margin-top: 2rem; 
+    margin-bottom: 1rem; 
+  }
+  

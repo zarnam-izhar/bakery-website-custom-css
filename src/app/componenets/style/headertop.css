@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-top {
+    background-color: #390505; 
+    padding: 5px 0; 
+}
+
+.header-container {
+    max-width: 1280px; 
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 16px;
+    gap: 24px; 
+}
+
+.social-link {
+    color: white; 
+    transition: color 0.3s ease;
+}
+
+.social-link.facebook:hover {
+    color: #1e3a8a; 
+}
+
+.social-link.instagram:hover {
+    color: #ec4899; 
+}
+
+.social-link.linkedin:hover {
+    color: #1d4ed8; 
+}
+
+.social-link.twitter:hover {
+    color: #60a5fa; 
+}

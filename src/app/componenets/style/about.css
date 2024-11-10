@@ -1,0 +1,30 @@
+
+
+.about-section {
+    padding: 80px 0;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .about-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 24px;
+    border-radius: 10px;
+  }
+  
+  .about-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 16px;
+  }
+  
+  .about-text {
+    font-size: 1rem;
+    color: white;
+    margin-bottom: 16px;
+  }
+  
